@@ -1,21 +1,21 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hello Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://twitter.com/PawanSattawan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="pawanmeena"  height="30" width="30" /></a>&nbsp;
-<a href="https://twitter.com/PawanSattawan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pawanmeena"  height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/adiofficials/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pawanmeena" height="30" width="30" /></a>&nbsp;
+<a href="https://www.codechef.com/users/adi_1868" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="aditya"  height="30" width="30" /></a>&nbsp;
+<a href="https://leetcode.com/adi3221/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="aditya"  height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/adiofficials/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/adi.officials/" target="_blank"><img align="center" alt="pawanmeena"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
-- 🏦 I'm a Software Engineer working in India 
+- 🏦 I'm doing Problem solving using Data Structures and Algorithms.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.html**,**.css**, **.javascript**, **.php**, **.sql**
-- 📖 I am currently reading Engineer ECE
-- 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: tune kya kar liya
+- 💻 I use daily **C++**,**STL**.
+- 📖 I am currently pursuing Electrical and Electronics Engineering from NIT Nagaland.
+- 💬 Intrigue me about Web Development using Django, HTML, CSS and Javascript(basic)
+- 👯 Interested in Problem solving. ♟
+- ⚡ Consistency, Determination, Patience is my Policy.
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
